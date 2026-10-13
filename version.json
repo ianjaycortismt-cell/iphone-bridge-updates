@@ -1,7 +1,7 @@
 {
-  "versionCode": 406866,
-  "versionName": "2026.10.10-1506",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.10-1506/iphone-bridge-406866.apk",
-  "sha256": "af7ddc4de043843da3640ca828e1b4120e7a07b17c39e5c515895de8887d3206",
-  "notes": "Day-by-day health with hourly detail, written summaries, auto-updates, new music tile, battery fixes, better icon fit."
+  "versionCode": 411461,
+  "versionName": "2026.10.13-1941",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.13-1941/iphone-bridge-411461.apk",
+  "sha256": "b001958a7644989fd4b892c62e7e3b213d94a208b9b4d3d2d10671c55704dc95",
+  "notes": "Sleep times fixed (bedtime no longer shifted by time awake in the night). Naps now shown separately from night sleep."
 }
