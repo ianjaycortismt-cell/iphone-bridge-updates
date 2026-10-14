@@ -1,7 +1,7 @@
 {
-  "versionCode": 411461,
-  "versionName": "2026.10.13-1941",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.13-1941/iphone-bridge-411461.apk",
-  "sha256": "b001958a7644989fd4b892c62e7e3b213d94a208b9b4d3d2d10671c55704dc95",
-  "notes": "Sleep times fixed (bedtime no longer shifted by time awake in the night). Naps now shown separately from night sleep."
+  "versionCode": 412283,
+  "versionName": "2026.10.14-0923",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.14-0923/iphone-bridge-412283.apk",
+  "sha256": "28f9e011d132ce6db8525591577e5b812aede648a966c0ae0705dd416127158a",
+  "notes": "Notification fixes: updated messages no longer create a second card; the bridge restarts itself when you open the app, and tells you if it has stopped."
 }
