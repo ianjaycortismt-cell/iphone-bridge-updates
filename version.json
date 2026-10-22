@@ -1,7 +1,7 @@
 {
-  "versionCode": 424552,
-  "versionName": "2026.10.22-2152",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.22-2152/iphone-bridge-424552.apk",
-  "sha256": "342e3ce9ce54c7aee6a7c2056c2647d74703323396c2d0667c969b2650a2dc70",
-  "notes": "Steps fixed: the same day's steps are never counted twice any more, and today's total always matches the watch's own count."
+  "versionCode": 424555,
+  "versionName": "2026.10.22-2155",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.22-2155/iphone-bridge-424555.apk",
+  "sha256": "a5c578464d5ce4af10e9489114f991ee34760f0b65d60df4d345f79ce0a0d024",
+  "notes": "Repairs the step counts of the last 14 days: steps counted twice by the old counter are removed (each corrected day is marked in the web app)."
 }
