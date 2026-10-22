@@ -1,7 +1,7 @@
 {
-  "versionCode": 412283,
-  "versionName": "2026.10.14-0923",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.14-0923/iphone-bridge-412283.apk",
-  "sha256": "28f9e011d132ce6db8525591577e5b812aede648a966c0ae0705dd416127158a",
-  "notes": "Notification fixes: updated messages no longer create a second card; the bridge restarts itself when you open the app, and tells you if it has stopped."
+  "versionCode": 424552,
+  "versionName": "2026.10.22-2152",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.22-2152/iphone-bridge-424552.apk",
+  "sha256": "342e3ce9ce54c7aee6a7c2056c2647d74703323396c2d0667c969b2650a2dc70",
+  "notes": "Steps fixed: the same day's steps are never counted twice any more, and today's total always matches the watch's own count."
 }
