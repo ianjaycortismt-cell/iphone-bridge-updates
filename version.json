@@ -1,7 +1,7 @@
 {
-  "versionCode": 424568,
-  "versionName": "2026.10.22-2208",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.22-2208/iphone-bridge-424568.apk",
-  "sha256": "dee3cfe709d9c8882397365e13942f99e3712e5e156fad5f0922fc307ff528eb",
-  "notes": "Sleep: bedtime is right even when the OnePlus report arrives before the watch's own sleep data. Updates install without freezing the screen."
+  "versionCode": 424609,
+  "versionName": "2026.10.22-2249",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.22-2249/iphone-bridge-424609.apk",
+  "sha256": "d32ec3e7244ac310df61e756f47d75007a7a21a8f86ea1dec67a9e6549f8a358",
+  "notes": "Hour-by-hour steps always add up to the watch's own total. Reads the OnePlus Sleep app's score and sleep stages (open it in the morning)."
 }
