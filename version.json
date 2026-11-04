@@ -1,7 +1,7 @@
 {
-  "versionCode": 443303,
-  "versionName": "2026.11.04-2123",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2123/iphone-bridge-443303.apk",
-  "sha256": "9e13ac7c31080a1dabda34914b396f4af785c01c7afc4e4326f769fe49c40f20",
-  "notes": "Tested on an emulator and fixed: icon download now uses Apple's reliable chart feed; SpO2 complication updates instantly; iPhone battery complication shows -- when disconnected; Find my watch buzzes for the full 20 s even in DND; no empty morning briefing; album art retries less often."
+  "versionCode": 443315,
+  "versionName": "2026.11.04-2135",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2135/iphone-bridge-443315.apk",
+  "sha256": "13e3f8579c18fc731e01546e8af905fe2ae6b13b8b679341ebaa25503d42f089",
+  "notes": "Find iPhone can now be stopped: pauses the music and puts the iPhone's volume back. Music tile fixed: round buttons no longer cut into boxes, album art beside the track, tap the card to open the app."
 }
