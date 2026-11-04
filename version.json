@@ -1,7 +1,7 @@
 {
-  "versionCode": 443326,
-  "versionName": "2026.11.04-2146",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2146/iphone-bridge-443326.apk",
-  "sha256": "da16b481c242ae05ad71067603307bdda6366d07d4ab4464dd340a0a9448bfc4",
-  "notes": "Music controls are much faster: play/pause updates instantly, skipping shows the new song as soon as the iPhone sends it, and Bluetooth speeds up while you use the buttons. Album covers now always match the song (no more wrong artist's cover)."
+  "versionCode": 443337,
+  "versionName": "2026.11.04-2157",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2157/iphone-bridge-443337.apk",
+  "sha256": "53dc6f5ddf820ba981367013d7e133fec4063d99b57e42545535d63ba6d75544",
+  "notes": "Album covers are faster and work offline: the cover starts downloading the moment a song changes, covers are kept on the watch, and the covers of all albums by the artists you play are saved on Wi-Fi so they show instantly even without internet. Songs played offline get their cover when Wi-Fi is back."
 }
