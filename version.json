@@ -1,7 +1,7 @@
 {
-  "versionCode": 443315,
-  "versionName": "2026.11.04-2135",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2135/iphone-bridge-443315.apk",
-  "sha256": "13e3f8579c18fc731e01546e8af905fe2ae6b13b8b679341ebaa25503d42f089",
-  "notes": "Find iPhone can now be stopped: pauses the music and puts the iPhone's volume back. Music tile fixed: round buttons no longer cut into boxes, album art beside the track, tap the card to open the app."
+  "versionCode": 443326,
+  "versionName": "2026.11.04-2146",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2146/iphone-bridge-443326.apk",
+  "sha256": "da16b481c242ae05ad71067603307bdda6366d07d4ab4464dd340a0a9448bfc4",
+  "notes": "Music controls are much faster: play/pause updates instantly, skipping shows the new song as soon as the iPhone sends it, and Bluetooth speeds up while you use the buttons. Album covers now always match the song (no more wrong artist's cover)."
 }
