@@ -1,7 +1,7 @@
 {
-  "versionCode": 443337,
-  "versionName": "2026.11.04-2157",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2157/iphone-bridge-443337.apk",
-  "sha256": "53dc6f5ddf820ba981367013d7e133fec4063d99b57e42545535d63ba6d75544",
-  "notes": "Album covers are faster and work offline: the cover starts downloading the moment a song changes, covers are kept on the watch, and the covers of all albums by the artists you play are saved on Wi-Fi so they show instantly even without internet. Songs played offline get their cover when Wi-Fi is back."
+  "versionCode": 443355,
+  "versionName": "2026.11.04-2215",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2215/iphone-bridge-443355.apk",
+  "sha256": "295d0ac132c7d42ad9c787f988ac50435ce84201a2a38bb2876e6ed56b83fc13",
+  "notes": "Music tile: new iPhone volume slider across the top. Tap the speaker buttons to step the volume, or tap anywhere on the bar to jump straight to that level."
 }
