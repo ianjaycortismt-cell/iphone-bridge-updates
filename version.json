@@ -1,7 +1,7 @@
 {
-  "versionCode": 424609,
-  "versionName": "2026.10.22-2249",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.10.22-2249/iphone-bridge-424609.apk",
-  "sha256": "d32ec3e7244ac310df61e756f47d75007a7a21a8f86ea1dec67a9e6549f8a358",
-  "notes": "Hour-by-hour steps always add up to the watch's own total. Reads the OnePlus Sleep app's score and sleep stages (open it in the morning)."
+  "versionCode": 443280,
+  "versionName": "2026.11.04-2100",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2100/iphone-bridge-443280.apk",
+  "sha256": "9fcea5d111a41ffcb42a35941d65e54718167fc4af40c63085509e8ed0a1f6f1",
+  "notes": "New: Download app icons, watch-face complications, album art, Find iPhone, low iPhone battery alert, move reminders, morning briefing. Web app: trends, awards, sleep consistency, Find my watch, export, notification stats."
 }
