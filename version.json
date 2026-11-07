@@ -1,7 +1,7 @@
 {
-  "versionCode": 443355,
-  "versionName": "2026.11.04-2215",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.04-2215/iphone-bridge-443355.apk",
-  "sha256": "295d0ac132c7d42ad9c787f988ac50435ce84201a2a38bb2876e6ed56b83fc13",
-  "notes": "Music tile: new iPhone volume slider across the top. Tap the speaker buttons to step the volume, or tap anywhere on the bar to jump straight to that level."
+  "versionCode": 447702,
+  "versionName": "2026.11.07-2242",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.07-2242/iphone-bridge-447702.apk",
+  "sha256": "8507296f01e75fc74919081c5cbe234ae0ac3825255468f2e5821a6f589db476",
+  "notes": "Spotify: covers now found for Spotify's track names (Remastered/Live/Radio Edit, several artists), and long song titles are read in full. Music tile and app card show the song's time, time left and a progress bar. Find iPhone says which app will play."
 }
