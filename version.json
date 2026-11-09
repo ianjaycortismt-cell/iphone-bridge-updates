@@ -1,7 +1,7 @@
 {
-  "versionCode": 448673,
-  "versionName": "2026.11.08-1453",
-  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.08-1453/iphone-bridge-448673.apk",
-  "sha256": "c7778406bc5abc9d24e5587024fd1b88daf5b0ca78e6f478c33bdda40678ef9d",
-  "notes": "Fixes 'connected but no notifications/music': the watch now re-reads the iPhone when its Bluetooth layout changes, checks the link itself (when you raise the watch and every 15 min) and repairs it automatically. Music card shows the playing app's name. Find iPhone retries Spotify."
+  "versionCode": 450114,
+  "versionName": "2026.11.09-1454",
+  "apk": "https://github.com/ianjaycortismt-cell/iphone-bridge-updates/releases/download/v2026.11.09-1454/iphone-bridge-450114.apk",
+  "sha256": "6f6a0d7427481af41d510539876b67e112bb5953a50d25492296a7898df820a6",
+  "notes": "Music tile now fills the round screen, and the buttons have big tap areas: a slightly missed tap still presses the nearest button instead of opening the app (only tapping the song opens it)."
 }
